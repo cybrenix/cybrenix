@@ -6,7 +6,7 @@
 
 I'm **Cybrenix**, a passionate freelance software developer specializing in creating efficient, user-friendly solutions. With many years of expertise in a range of programming languages and frameworks, I am dedicated to delivering top-notch software that meets and exceeds client expectations.
 
-**I am actively looking for freelance work! If you're interested in collaborating, please join my Discord server: [Cybrenix Development](https://discord.gg/xuE7wsypc9).**
+**I am actively looking for freelance work! If you're interested, please join my Discord server: [Cybrenix Development](https://discord.gg/xuE7wsypc9).**
 
 ## 🛠️ Technologies & Tools
 
