@@ -1,10 +1,12 @@
 # Cybrenix
 
-![Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+Cybrenix%27s+GitHub)
+![Banner](https://via.placeholder.com/1000x200.png?text=Cybrenix+-+Freelance+Software+Developer)
 
 ## 👋 Hello there!
 
 I'm **Cybrenix**, a passionate freelance software developer specializing in creating efficient, scalable, and user-friendly solutions. With expertise in a range of programming languages and frameworks, I am dedicated to delivering top-quality software that meets and exceeds client expectations.
+
+**I am actively looking for freelance work! If you're interested in collaborating, please join my Discord server: [Cybrenix Development](https://discord.gg/xuE7wsypc9).**
 
 ## 🛠️ Technologies & Tools
 
@@ -14,13 +16,9 @@ I'm **Cybrenix**, a passionate freelance software developer specializing in crea
 - **Databases:** PostgreSQL, MariaDB
 
 ## 🚀 Projects & Contributions
-template
 
-### 🔗 [Project Name](https://github.com/username/project)
-A brief description of the project and its significance. Mention technologies used and your role.
-
-### 🔗 [Another Project](https://github.com/username/project)
-A brief description of another project, highlighting key features, technologies, and your contributions.
+I am currently working on a new project, which will be a new take on IRC clients, with versions for web, desktop, and mobile.
+Stay tuned for more updates!
 
 ## 📈 GitHub Stats
 
@@ -31,7 +29,6 @@ A brief description of another project, highlighting key features, technologies,
 - **Email:** cybrenix@gmail.com
 - **Discord:** [Cybrenix Development](https://discord.gg/xuE7wsypc9)
 
-## 💼 Open to Opportunities
+## 💼 Open to Freelance Opportunities
 
-I am open to freelance projects and full-time opportunities. Feel free to reach out to discuss how I can help bring your ideas to life!
-
+I am open to freelance projects and collaborations. Feel free to reach out to discuss how I can help bring your ideas to life!
