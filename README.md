@@ -22,7 +22,7 @@ Stay tuned for more updates!
 
 ## 📈 GitHub Stats
 
-![Cybrenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybrenix&show_icons=true&theme=radical)
+![Cybrenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybrenix&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
