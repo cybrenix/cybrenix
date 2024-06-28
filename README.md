@@ -10,9 +10,9 @@ I'm **Cybrenix**, a passionate freelance software developer specializing in crea
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Java
+- **Languages:** JavaScript
 - **Frameworks:** Next.js, Electron, Expo, React
-- **Tools:** Git, Docker
+- **Tools:** Git, Docker, Tailwind CSS
 - **Databases:** PostgreSQL, MariaDB
 
 ## 🚀 Projects & Contributions
